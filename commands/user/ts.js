@@ -7,10 +7,10 @@ module.exports = {
     },
     run: async (bot, message, args) => {
         message.delete()
-        let info1 = `Ts.astropvp.club`
+        let info1 = `ts.dreamspvp.net`
 
         let embed = new MessageEmbed()
-            .setTitle(`✸ | Astro Network`)
+            .setTitle(`✸ | Dreams Network`)
             .setColor(`DARK_RED`)
             .setThumbnail(bot.user.displayAvatarURL())
             .setFooter(message.guild.name)
