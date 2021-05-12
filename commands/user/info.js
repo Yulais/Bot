@@ -7,10 +7,10 @@ module.exports = {
     },
     run: async (bot, message, args) => {
         message.delete()
-        let info1 = `astropvp.club`
-        let info2 = `_Yulais_#0009, 15wv#7773, 73#1543`
-        let info3 = `Dxpends#6096,Sherik#7117`
-        let info4 = `Sherik#7117`
+        let info1 = `dreamspvp.net`
+        let info2 = `k5z, _Yulais_, xC90x, $ nAch`
+        let info3 = `_Yulais_`
+        let info4 = `Dreams Administracion`
 
         let embed = new MessageEmbed()
             .setTitle(`Bot Information`)
